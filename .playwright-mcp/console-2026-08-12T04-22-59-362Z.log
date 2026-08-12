@@ -1,0 +1,47 @@
+[     265ms] [LOG] %c JSHandle@node @ https://www.douyin.com/user/Henkeai804a:0
+[     699ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://www.douyin.com/user/Henkeai804a:0
+[     702ms] [LOG] init slardar @ https://www.douyin.com/user/Henkeai804a:21
+[     702ms] [LOG] init slardar success @ https://www.douyin.com/user/Henkeai804a:101
+[    1691ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-cdn-tos.bytescm.com/obj/rc-verifycenter/rmc-nocaptcha/1.0.0.44/setup.js:37
+[    1691ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-cdn-tos.bytescm.com/obj/rc-verifycenter/rmc-nocaptcha/1.0.0.44/setup.js:37
+[    1806ms] [WARNING] [SDK] 1786508581167        0 already inited @ https://lf3-short.ibytedapm.com/slardar/fe/sdk-web/browser.cn.js?bid=douyin_web&globalName=Slardar:0
+[    2204ms] Error: Minified React error #418; visit https://reactjs.org/docs/error-decoder.html?invariant=418 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at tK (https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:161665)
+    at ig (https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:248639)
+    at oL (https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:229096)
+    at https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:225263
+    at https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:225271
+    at oy (https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:225376)
+    at MessagePort.P (https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:338590)
+[    2204ms] Error: Minified React error #422; visit https://reactjs.org/docs/error-decoder.html?invariant=422 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+    at https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:197741
+    at aS (https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:199039)
+    at ig (https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:249128)
+    at oL (https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:229096)
+    at https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:225263
+    at https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:225271
+    at oy (https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:225376)
+    at MessagePort.P (https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/framework.5ba1f416.js:2:338590)
+[    2362ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/player-1.f542b88c.js:1
+[    2363ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/player-1.f542b88c.js:1
+[    2365ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/player-1.f542b88c.js:1
+[    2811ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.e6a1c752.js:1
+[    2885ms] [ERROR] Failed to launch 'bitbrowser://cc/' because the scheme does not have a registered handler. @ https://www.douyin.com/user/Henkeai804a:0
+[    3119ms] [LOG] Service worker registration success @ https://www.douyin.com/user/Henkeai804a:960
+[    3644ms] [LOG] [ Federation Runtime ] Version 18.3.0-canary-587ae49d7-20230720 from @demo/douyin-web of shared singleton module react does not satisfy the requirement of @revenue-wallet-fe/recharge-web which needs ^18.3.1) @ https://lf3-webcast.bytetos.com/obj/webcast-new/recharge_web_vmok/vmok-remote-entry.dd3d1a7e.js:3
+[    3645ms] [LOG] [ Federation Runtime ] Version 18.3.0-canary-587ae49d7-20230720 from @demo/douyin-web of shared singleton module react-dom does not satisfy the requirement of @revenue-wallet-fe/recharge-web which needs ^18.3.1) @ https://lf3-webcast.bytetos.com/obj/webcast-new/recharge_web_vmok/vmok-remote-entry.dd3d1a7e.js:3
+[    3703ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/90997.d887a157.js:5
+[    3720ms] [WARNING] Cannot assign to read only property 'call' of object '#<Object>' @ https://lf3-webcast.bytetos.com/obj/webcast-new/recharge_web_vmok/static/js/async/__federation_expose_data.a2f2d4e1.js:1
+[    3728ms] [LOG] getRechargePackages requestParams {path: /webcast/diamond/, queryParams: Object} @ https://lf3-webcast.bytetos.com/obj/webcast-new/recharge_web_vmok/static/js/async/__federation_expose_data.a2f2d4e1.js:1
+[    4118ms] [LOG] [prefetch] packageData [local]:  {packages: Array(7), extra: Object} @ https://lf3-webcast.bytetos.com/obj/webcast-new/recharge_web_vmok/static/js/async/__federation_expose_data.a2f2d4e1.js:1
+[    4159ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.e6a1c752.js:1
+[    4160ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.e6a1c752.js:1
+[    4164ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/async/28872.e6a1c752.js:1
+[    4537ms] [LOG] [params] {num: Object, bool: Object, str: Object} @ https://lf-douyin-pc-web.douyinstatic.com/obj/passport-fe/ucenter_fe/@byted/uc-secure-dtrait-core/1.0.0.16/dist/index.umd.production.js:0
+[    4953ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[    4954ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[    4959ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ :2
+[    5114ms] [LOG] [c0] @ :2
+[   12038ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/88706.0056d858.js:1
+[   12039ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/88706.0056d858.js:1
+[   12045ms] [ERROR] The Content Security Policy directive 'upgrade-insecure-requests' is ignored when delivered in a report-only policy. @ https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/88706.0056d858.js:1
