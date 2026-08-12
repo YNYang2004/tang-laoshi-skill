@@ -1,0 +1,72 @@
+- generic [ref=f13e3]:
+  - generic [ref=f13e5]:
+    - link [ref=f13e6] [cursor=pointer]:
+      - /url: //www.douyin.com/jingxuan
+    - generic [ref=f13e12]:
+      - generic [ref=f13e14]:
+        - link "精选" [ref=f13e18] [cursor=pointer]:
+          - /url: https://www.douyin.com/jingxuan?from_nav=1
+        - link "推荐" [ref=f13e25] [cursor=pointer]:
+          - /url: https://www.douyin.com/?recommend=1&from_nav=1
+        - link "AI抖音" [ref=f13e32] [cursor=pointer]:
+          - /url: https://www.douyin.com/aisearch?from_nav=1
+        - link "关注" [ref=f13e40] [cursor=pointer]:
+          - /url: https://www.douyin.com/follow?from_nav=1
+        - link "朋友" [ref=f13e47] [cursor=pointer]:
+          - /url: https://www.douyin.com/friend?from_nav=1
+        - link "我的" [ref=f13e54] [cursor=pointer]:
+          - /url: https://www.douyin.com/user/self?from_nav=1
+        - link "直播" [ref=f13e62] [cursor=pointer]:
+          - /url: https://live.douyin.com/?from_nav=1
+        - link "放映厅" [ref=f13e69] [cursor=pointer]:
+          - /url: https://www.douyin.com/vs?from_nav=1
+        - link "短剧" [ref=f13e76] [cursor=pointer]:
+          - /url: https://www.douyin.com/series?from_nav=1
+        - link "小游戏" [ref=f13e83] [cursor=pointer]:
+          - /url: https://www.douyin.com/microgame?from_nav=1
+      - generic [ref=f13e88]:
+        - generic [ref=f13e90] [cursor=pointer]
+        - generic [ref=f13e94] [cursor=pointer]
+        - generic [ref=f13e98] [cursor=pointer]
+  - generic [ref=f13e101]:
+    - banner [ref=f13e105]:
+      - generic [ref=f13e107]:
+        - generic [ref=f13e111]:
+          - textbox "搜索你感兴趣的内容" [ref=f13e113]
+          - button "搜索" [ref=f13e115] [cursor=pointer]
+        - generic [ref=f13e122]:
+          - paragraph [ref=f13e129] [cursor=pointer]: 充值
+          - link [ref=f13e134] [cursor=pointer]:
+            - /url: ""
+            - paragraph [ref=f13e142]: 客户端
+          - paragraph [ref=f13e149] [cursor=pointer]: 壁纸
+          - list [ref=f13e150]:
+            - paragraph [ref=f13e160] [cursor=pointer]: 通知
+          - list [ref=f13e161]:
+            - paragraph [ref=f13e168] [cursor=pointer]: 消息
+          - paragraph [ref=f13e177] [cursor=pointer]: 投稿
+          - button [ref=f13e181] [cursor=pointer]:
+            - paragraph [ref=f13e183]: 登录
+    - generic [ref=f13e190]:
+      - generic [ref=f13e194]:
+        - generic [ref=f13e195] [cursor=pointer]: 综合
+        - generic [ref=f13e196] [cursor=pointer]: 视频
+        - generic [ref=f13e197] [cursor=pointer]: 用户
+        - generic [ref=f13e198] [cursor=pointer]: 直播
+      - list [ref=f13e201]:
+        - listitem [ref=f13e202]
+        - listitem [ref=f13e211]
+        - listitem [ref=f13e220]
+        - listitem [ref=f13e229]
+        - listitem [ref=f13e238]
+        - listitem [ref=f13e247]
+        - listitem [ref=f13e256]
+        - listitem [ref=f13e265]
+        - listitem [ref=f13e274]
+        - listitem [ref=f13e283]
+        - listitem [ref=f13e292]
+        - listitem [ref=f13e301]
+        - listitem [ref=f13e310]
+        - listitem [ref=f13e319]
+        - listitem [ref=f13e328]
+        - listitem [ref=f13e337]
