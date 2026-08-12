@@ -309,6 +309,3 @@ license: MIT
 > "向马斯克的开源精神致敬" —— 头条号，表达对开源理念的认同
 
 ---
-
-> 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 创建者：[花叔](https://x.com/AlchainHust)
